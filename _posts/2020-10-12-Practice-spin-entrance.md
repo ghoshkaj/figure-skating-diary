@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: Spin entrance practice
 description: Figure out how to enter a two foot spin
