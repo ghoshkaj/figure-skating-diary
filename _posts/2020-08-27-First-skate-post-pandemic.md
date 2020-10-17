@@ -3,7 +3,7 @@ layout: post
 title: First skate post pandemic
 description: Meeting a new coach for the first time, and getting back into skating post pandemic
 summary:
-tags: [spin, coach]
+tags: [spin entrance, coach, lesson]
 ---
 
 Today was the first time I've been skating since March 2020. Of course, I only started skating again early this year in February after not skating for about 2 years, so the pandemic forcibly breaking it didn't help!

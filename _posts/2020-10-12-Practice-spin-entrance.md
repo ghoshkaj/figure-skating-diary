@@ -3,7 +3,7 @@ layout: post
 title: Spin entrance practice
 description: Figure out how to enter a two foot spin
 summary:
-tags: [spin]
+tags: [spin entrance]
 ---
 
 Today I had a full hour on the ice, no lesson, just practice. There was a younger crowd on the ice which was less fun than Friday when it had been an older crowd and less crowded overall. A younger crowd means far more divas on the ice doing their fancy spins and jumps and generally not paying attention to skaters who are not at their level. There's a sort of expectation that if you claim the ice as yours, it _is_ yours. More advanced skaters feel this right moreso than less advanced skaters, and since more advanced skaters are younger, I tend to be wary of a lot of younger skaters.
