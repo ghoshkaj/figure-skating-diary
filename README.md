@@ -1,2 +1,4 @@
-# figure-skating-diary
-A diary to keep track of my figure skating practice
+# README
+
+My figure skating journal
+
