@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson and some practice
+title: Lesson, practice, and an injured back
 description: Feedback and some practice
 summary:
 tags: [power stroking, spin entrance, coach, lesson]
